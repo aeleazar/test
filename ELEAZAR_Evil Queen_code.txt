@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<html>
+	<head>
+		<title>12 Major Disney Villains</title>
+	</head>
+	<body style = "background-color: black">
+	
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Kumar One' rel='stylesheet'>
+	<style>
+		a{
+			font-family: 'Kumar One';font-size: 20px;color: white; 
+		}
+	</style>
+	</head>
+		<nav>
+		<a href = "file:///C:/Users/Alexei/Desktop/ELEAZAR_website_index.html">HOME</a>
+	
+	<div style="text-align: center;">
+	
+	<br>
+	<br>
+	
+	<img src = "https://static.wikia.nocookie.net/disney-villainous/images/d/d5/Evil_Queen.png/revision/latest?cb=20210503155250" width = "600px" height = "auto">
+
+	<br>
+	<br>
+	
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Kumar One' rel='stylesheet'>
+	<style>
+		ul{
+			font-family: 'Kumar One';font-size: 20px;color: white; 
+		}
+	</style>
+	</head>
+		<ul>
+			<li>Evil Queen, from her name alone, is an evil, sinister, and cruel fictional character of the story, Snow White and the 7 Dwarves.</li>
+			<li>Despite being Snow White's stepmother, she is envious of Snow White's beauty and thus plans her demise multiple times.</li>
+			<li>Each time, her plan fails and Snow White prevails.</li>
+			
+	<br>
+	<br>
+			
+	</div>
+	</body>
+
+</html>

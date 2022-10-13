@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<html>
+	<head>
+		<title>12 Major Disney Villains</title>
+	</head>
+	<body style = "background-color: black">
+	
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Kumar One' rel='stylesheet'>
+	<style>
+		a{
+			font-family: 'Kumar One';font-size: 20px;color: white; 
+		}
+	</style>
+	</head>
+		<nav>
+		<a href = "file:///C:/Users/Alexei/Desktop/ELEAZAR_website_index.html">HOME</a>
+	
+	<div style="text-align: center;">
+	
+	<br>
+	<br>
+	
+	<img src = "https://static.wikia.nocookie.net/disney-villainous/images/0/02/Mother_Gothel.png/revision/latest?cb=20210503155433" width = "600px" height = "auto">
+
+	<br>
+	<br>
+	
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Kumar One' rel='stylesheet'>
+	<style>
+		ul{
+			font-family: 'Kumar One';font-size: 20px;color: white; 
+		}
+	</style>
+	</head>
+		<ul>
+			<li>Mother Gothel is a vain, self-centered, manipulative, sinister, and shrewd fictional character of the film, Tangled.</li>
+			<li>She kidnaps a baby, Rapunzel, and locks her in a tower just because of her majical hair.</li>
+			<li>At the end of the movie, Rapunzel loses her magical powers which causes Mother Gothel's demise.</li>
+			
+	<br>
+	<br>
+			
+	</div>
+	</body>
+
+</html>

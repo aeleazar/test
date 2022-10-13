@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<html>
+	<head>
+		<title>12 Major Disney Villains</title>
+	</head>
+	<body style = "background-color: black">
+	
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Kumar One' rel='stylesheet'>
+	<style>
+		a{
+			font-family: 'Kumar One';font-size: 20px;color: white; 
+		}
+	</style>
+	</head>
+		<nav>
+		<a href = "file:///C:/Users/Alexei/Desktop/ELEAZAR_website_index.html">HOME</a>
+	
+	<div style="text-align: center;">
+	
+	<br>
+	<br>
+	
+	<img src = "https://static.wikia.nocookie.net/disney-villainous/images/d/da/Queen_of_Hearts.png/revision/latest?cb=20210503154821" width = "600px" height = "auto">
+
+	<br>
+	<br>
+	
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Kumar One' rel='stylesheet'>
+	<style>
+		ul{
+			font-family: 'Kumar One';font-size: 20px;color: white; 
+		}
+	</style>
+	</head>
+		<ul>
+			<li>The Queen of Hearts rules a place called Wonderland.</li>
+			<li>The Queen of Hearts is a childish, foul-tempered, and spoiled monarch. This is proven by her most memorable line; "Off with your head!". </li>
+			<li>The Queen of Hearts is the main antagonist of the tale, Alice in Wonderland.</li>
+			
+	<br>
+	<br>
+			
+	</div>
+	</body>
+
+</html>
